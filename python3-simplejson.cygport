@@ -1,0 +1,10 @@
+inherit python3-distutils
+
+NAME="python3-simplejson"
+VERSION=3.6.5
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python 3 JSON decoder/encoder"
+DESCRIPTION="simplejson is a simple, fast, complete, correct and extensible
+JSON encoder and decoder for Python 2.5+.  It is pure Python code with no
+dependencies, but includes an optional C extension for a serious speed boost."
